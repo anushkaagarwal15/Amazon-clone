@@ -20,6 +20,7 @@
 .nav-logo{
     height: 50px;
     width: 100px;
+    cursor: pointer;
 }
 
 
@@ -31,6 +32,7 @@
 
 .border{
     border: 1.5px solid transparent;
+    cursor: pointer;
 }
 
 .border:hover{
@@ -43,17 +45,22 @@
 color: #cccccc;
 font-size: 0.8rem;
 margin-left: 15px;
+cursor: pointer;
 }
 
 .add-sec{
     color: white;
 font-size: 1rem;
 margin-left: 3px;
+cursor: pointer;
+
 }
 
 .add-icon{
     display: flex;
     align-items: center;
+    cursor: pointer;
+
 }
 
 /* Box-3 */
@@ -106,12 +113,14 @@ margin-left: 3px;
 
 span{
     font-size: 0.7rem;
-
+cursor: pointer;
 }
+
 
 .nav-second{
     font-size: 0.85rem;
     font-weight: 700;
+    cursor: pointer;
 }
 
 /* Box-6 */
@@ -124,6 +133,7 @@ font-size: 30px;
 .nav-cart{
     font-size: 0.85rem;
     font-weight: 500;
+    cursor: pointer;
 }
 
 .panel{
@@ -205,6 +215,7 @@ font-size: 30px;
     background-size: cover;
     margin-top: 1rem;
     margin-bottom: 1rem;
+    cursor: pointer;
 
 
 }
@@ -238,6 +249,7 @@ footer{
     justify-content: center;
     align-items: center;
     font-size: 0.85rem;
+    cursor: pointer;
 }
 
 .foot-pannel2{
@@ -247,6 +259,7 @@ footer{
 display: flex;
 justify-content:space-evenly ;
 
+
 }
 
 ul a{
@@ -254,12 +267,14 @@ ul a{
     font-size: 0.85rem;
     margin-top: 10px;
     color: #dddddd;
+    cursor: pointer;
 }
 
 ul p{
     font-weight: 700;
     margin-top: 40px;
     margin-bottom: 15px;
+    cursor: pointer;
 }
 
 .foot-pannel3{
@@ -275,6 +290,7 @@ ul p{
 
 .logo{
 width: 100px;
+cursor: pointer;
 }
 
 .foot-pannel4{
@@ -297,9 +313,11 @@ padding-top: 25px;
 font-size: 0.7rem;
 /* text-align: center; */
 padding-top: 5px;
+cursor: pointer;
 
 }
 
 .pages a{
     margin: 5px;
+    cursor: pointer;
 }
