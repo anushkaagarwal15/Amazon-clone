@@ -149,6 +149,7 @@ font-size: 30px;
 .panel-all{
     margin-left: 15px;
     font-weight: 700;
+    cursor: pointer;
 }
 
 .panel-ops p{
@@ -235,6 +236,45 @@ font-size: 30px;
     cursor: pointer;
 }
 
+.redmi12{
+    cursor: pointer;
+    height: 200px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+
+
+}
+
+.rec-box{
+    background-color: white;
+    height: 200px;
+    width: 60%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    /* display: inline-flex; */
+
+}
+
+.rec-box p{
+    font-size: 1.1rem;
+    display: flex;
+    justify-content: right;
+    align-items: left;
+    margin-right: 100px;
+}
+
+.box-img2{
+    height: 180px;
+    background-size: contain;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    cursor: pointer;
+    background-repeat: no-repeat;
+}
+
 /* footer */
 
 footer{
@@ -253,6 +293,11 @@ footer{
     cursor: pointer;
 }
 
+.foot-pannel a{
+    color: white;
+    text-decoration: none;
+}
+
 .foot-pannel2{
     background-color: #222f3d;
     color: white;
@@ -269,6 +314,7 @@ ul a{
     margin-top: 10px;
     color: #dddddd;
     cursor: pointer;
+    
 }
 
 ul p{
