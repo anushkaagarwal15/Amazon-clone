@@ -231,10 +231,12 @@ font-size: 30px;
 
 .box-content p{
     color: #007185;
+    cursor: pointer;
 }
 
-.box-content p{
-    cursor: pointer;
+.box-content p:hover{
+    text-decoration: underline;
+    color: #d68624;
 }
 
 .redmi12{
